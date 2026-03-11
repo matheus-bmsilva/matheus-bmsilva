@@ -3,5 +3,5 @@
 - 🔭 Estou estagiando na área de dados
 - 🌱 Estudo SQL com foco em banco de dados
 
-![Metrics](github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/matheus-bmsilva/matheus-bmsilva/main/github-metrics.svg)
  

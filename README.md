@@ -9,7 +9,7 @@
 
 Educação: ![UMC](https://img.shields.io/badge/Engenharia_de_Software-UMC-blue?style=for-the-badge)
 </div>
-- 🔭 Estou estagiando na área de dados
+- 🔭 Estou estagiando na área de dados <br>
 - 🌱 Estudo SQL com foco em banco de dados
 
 ![Metrics](https://github.com/matheus-bmsilva/workflows/blob/main/github-metrics.svg)
